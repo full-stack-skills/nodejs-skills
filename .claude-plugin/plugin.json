@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/nodejs-skills",
-  "repository": "https://github.com/full-statck-skills/nodejs-skills",
+  "homepage": "https://github.com/full-stack-skills/nodejs-skills",
+  "repository": "https://github.com/full-stack-skills/nodejs-skills",
   "source": "./",
   "skills": [
     "./skills/express",
