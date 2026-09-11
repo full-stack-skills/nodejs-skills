@@ -1,7 +1,7 @@
 ---
 name: fastify
 description: Provides comprehensive guidance for Fastify framework including routing, plugins, schemas, hooks, and performance optimization. Use when the user asks about Fastify, needs to create high-performance Node.js applications, implement Fastify plugins, or optimize API performance.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

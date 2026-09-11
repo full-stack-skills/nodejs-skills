@@ -1,7 +1,7 @@
 ---
 name: koa
 description: Provides comprehensive guidance for Koa.js framework including middleware, context, async/await patterns, and application structure. Use when the user asks about Koa, needs to create Koa applications, implement middleware, or build Node.js web applications.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

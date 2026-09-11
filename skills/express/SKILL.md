@@ -1,7 +1,7 @@
 ---
 name: express
 description: Provides comprehensive guidance for Express.js framework including routing, middleware, request handling, templating, and API development. Use when the user asks about Express, needs to create Express applications, set up routes, implement middleware, or build REST APIs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
