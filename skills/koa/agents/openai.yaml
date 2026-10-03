@@ -1,0 +1,4 @@
+interface:
+  display_name: "Koa"
+  short_description: "Koa.js framework including middleware, context, async/await…"
+  default_prompt: "Use $koa to help with my current task: Provides comprehensive guidance for Koa.js framework including middleware, context, async/await patterns, and application structure."

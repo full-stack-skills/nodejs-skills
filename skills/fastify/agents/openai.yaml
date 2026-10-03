@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fastify"
+  short_description: "Fastify framework including routing, plugins, schemas, hooks…"
+  default_prompt: "Use $fastify to help with my current task: Provides comprehensive guidance for Fastify framework including routing, plugins, schemas, hooks, and performance optimization."

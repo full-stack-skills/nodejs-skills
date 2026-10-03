@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nestjs"
+  short_description: "NestJS using the official documentation"
+  default_prompt: "Use $nestjs to help with my current task: Provides comprehensive guidance for NestJS using the official documentation."
